@@ -10,24 +10,21 @@ Anaconda - Python 3.7
 import sys
 
 ### Step 2: 
-
-open line
+ Give count = 0 because begin count is zero
  
 ### Step 3: 
-
-usinf for loop
-
+Open a file in read mode.
 ### Step 4:  
 
-using split()
+Split a line using a for loop.
 
 ### Step 5: 
 
-counting words using len()
+Now count a word using len(word).
 
 ### Step 6: 
 
-print the output
+Then get a output by giving print(count). 
 
 ## PROGRAM:
 ```
