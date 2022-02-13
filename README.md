@@ -30,7 +30,7 @@ counting words using len()
 print the output
 
 ## PROGRAM:
-
+```
 import sys
 count=0
 with open(sys.argv[1], 'r') as f:
@@ -38,7 +38,7 @@ with open(sys.argv[1], 'r') as f:
         word = line.split()
         count += len(word)
 print("word count in file =", count)
-
+```
 ### OUTPUT:
 ![GitHub Logo](.//img1.png)
 
